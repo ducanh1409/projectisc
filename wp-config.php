@@ -95,6 +95,7 @@ define('WPLANG', 'en');
  */
 define('WP_DEBUG', false);
 define( 'WP_AUTO_UPDATE_CORE', false );
+define( 'WP_ALLOW_REPAIR', true );
 
 /* That's all, stop editing! Happy blogging. */
 
